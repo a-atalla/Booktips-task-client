@@ -1,0 +1,11 @@
+html, body {
+  background: #e8eaf6;
+}
+
+.book :hover {
+  cursor: pointer;
+}
+
+.details {
+  color: #757575
+}
